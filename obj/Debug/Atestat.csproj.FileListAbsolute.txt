@@ -1,0 +1,16 @@
+C:\Users\UBB L 9\Documents\Atestat\obj\Debug\Atestat.csproj.AssemblyReference.cache
+C:\Users\UBB L 9\Documents\Atestat\obj\Debug\Atestat.Form1.resources
+C:\Users\UBB L 9\Documents\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+C:\Users\UBB L 9\Documents\Atestat\obj\Debug\Atestat.SignUpControl.resources
+C:\Users\UBB L 9\Documents\Atestat\obj\Debug\Atestat.csproj.GenerateResource.cache
+C:\Users\UBB L 9\Documents\Atestat\obj\Debug\Atestat.csproj.CoreCompileInputs.cache
+C:\Users\UBB L 9\Documents\Atestat\bin\Debug\Atestat.exe.config
+C:\Users\UBB L 9\Documents\Atestat\bin\Debug\Atestat.exe
+C:\Users\UBB L 9\Documents\Atestat\bin\Debug\Atestat.pdb
+C:\Users\UBB L 9\Documents\Atestat\obj\Debug\Atestat.exe
+C:\Users\UBB L 9\Documents\Atestat\obj\Debug\Atestat.pdb
+C:\Users\UBB L 9\Documents\Atestat\obj\Debug\Atestat.LogInControl.resources
+C:\Users\UBB L 9\Documents\Atestat\bin\Debug\Guna.UI2.dll
+C:\Users\UBB L 9\Documents\Atestat\obj\Debug\Atestat.csproj.Up2Date
+C:\Users\UBB L 9\Documents\Atestat\obj\Debug\Atestat.DashboardControl.resources
+C:\Users\UBB L 9\Documents\Atestat\obj\Debug\Atestat.ProdusControl.resources
